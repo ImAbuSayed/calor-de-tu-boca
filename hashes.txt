@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor de tu boca
+
+This log tracks the cryptographic history and versioning for the song **Calor de tu boca** (calor-de-tu-boca).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T21:27:16.706032 | `v1` | `a4d1e783a2f353a196057928f32ecf106e29ccbba21cff55a22583f640f23296` | `727a644e2c6df5a05874801f1d926744e337f1bebd43b91b5b00fa5b33c3716b` | `2026-06-15_calor-de-tu-boca-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

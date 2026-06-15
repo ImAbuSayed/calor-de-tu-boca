@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-de-tu-boca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Calor de tu boca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-tu-boca/) |
+| **Get License** | [Secure Licensing Rights for Calor de tu boca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-tu-boca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a4d1e783a2f353a196057928f32ecf106e29ccbba21cff55a22583f640f23296` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
