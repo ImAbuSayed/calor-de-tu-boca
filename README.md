@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-de-tu-boca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Calor de tu boca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-tu-boca/) |
+| **Get License** | [Music Rights & Licensing for Calor de tu boca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-tu-boca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el calor de tu boca, mami, me tiene volando
+> Una noche en Barcelona y ya me estás tentando
+> Esa mirada me llama, el instinto me está provocando
+> Baila suave en lo oscuro, que el club se está calentando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
